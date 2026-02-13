@@ -27,7 +27,7 @@ class Catssparskit(CMakePackage):
     """Copy of Sparskit but with cmake"""
 
     homepage = "https://www.example.com"
-    git = "cats-git:sparskit"
+    git = "git@git.rwth-aachen.de:cats-gitolite/public/libraries/sparskit.git"
 
     version("main", branch="main")
 

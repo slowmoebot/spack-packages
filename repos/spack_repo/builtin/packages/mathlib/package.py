@@ -29,7 +29,7 @@ class Mathlib(CMakePackage):
 
     # FIXME: Add a proper url for your package's homepage here.
     homepage = "https://www.example.com"
-    git = "cats-git:mathlib"
+    git = "git@git.rwth-aachen.de:cats-gitolite/public/libraries/mathlib.git"
 
     # FIXME: Add a list of GitHub accounts to
     # notify when the package is updated.

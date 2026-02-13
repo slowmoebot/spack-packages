@@ -29,8 +29,7 @@ class Ewd(CMakePackage):
 
     # FIXME: Add a proper url for your package's homepage here.
     homepage = "https://www.example.com"
-    url = "cats-git:ewd"
-    git = "cats-git:ewd"
+    git = "git@git.rwth-aachen.de:cats-gitolite/public/libraries/ewd.git"
 
     # FIXME: Add a list of GitHub accounts to
     # notify when the package is updated.
